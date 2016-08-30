@@ -24,7 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: FMWM | Asia
+    url: 'http://fmwm.org/asia'
+    type: external
 favicon: null
 title: H O P E  4  A S I A
-description: Offering the Uncontainable Hope of Jesus
 purpose: []
