@@ -28,6 +28,9 @@ navigation:
   - name: Give to Love Asia Fund
     url: loveasia.info
     type: external
+  - name: Asia Page at fmwm.org
+    url: fmwm.org/asia
+    type: external
 favicon: null
 title: H O P E  4  A S I A
 purpose: []
