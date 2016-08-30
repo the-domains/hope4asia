@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: FMWM | Asia
-    url: 'http://fmwm.org/asia'
-    type: external
   - name: Give to Love Asia Fund
     url: loveasia.info
     type: external
